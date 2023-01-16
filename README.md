@@ -1,4 +1,4 @@
-# inventiveCoding
+# invEntiveCoding
 A coding repo for innovative and creative people.
 <br>
 <br>
